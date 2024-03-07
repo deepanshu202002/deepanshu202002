@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deepanshu.moorjani20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vf6RE7Bhp9ECk8nxB-hffNmpMylKG3Ke/view?usp=sharing](https://drive.google.com/file/d/1Vf6RE7Bhp9ECk8nxB-hffNmpMylKG3Ke/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1WL8B_nx2163dMo3YD_snKyo1DDnaI7IB/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
