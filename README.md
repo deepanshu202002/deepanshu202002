@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gf4z.onrender.com/](https://portfolio-gf4z.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-gf4z.onrender.com/](https://portfolio-sqk3.onrender.com/)
 
 - 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **deepanshu.moorjani20@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1WL8B_nx2163dMo3YD_snKyo1DDnaI7IB/view?usp=sharing
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1pC7LiYekV8FqrgyrSUjfDNikmKtFkOoq/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepanshuu_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshuu_20" height="30" width="40" /></a>
