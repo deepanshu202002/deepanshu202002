@@ -36,7 +36,7 @@ Full-stack legal tech platform that demystifies complex contracts. Upload a PDF/
 - **Streaming Summaries** — SSE pipeline delivers "typewriter-style" Gemini 1.5 Flash output for perceived instant results
 - **Async History** — MongoDB + Motor stores all past analyses per user for a persistent dashboard
 - **Glassmorphic UI** — Premium dark-mode interface with Framer Motion animations and responsive design
-
+---
 ### 🤖 RevuLens — AI-Powered Product Review Platform
 > `Next.js` `Python` `FastAPI` `DistilBERT` `Docker` `Kubernetes` `GitHub Actions` `AWS S3`
 
